@@ -4,7 +4,7 @@ print(type(numbers))
 print(numbers)
 
 
-# tuple example
+# tuple example - This is immutable collection
 favorite_colors = ("blue", "green", "red")
 print(type(favorite_colors))
 print(favorite_colors[0])
